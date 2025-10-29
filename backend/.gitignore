@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/editor config
+.vscode/
+.idea/
+
+# Build artifacts (optional)
+dist/
+build/
+
+# Coverage & testing
+coverage/
+*.lcov
+
+# Optional: jika pakai PM2 atau lainnya
+pids/
+*.pid
+*.seed
